@@ -28,7 +28,7 @@ The project implements JWT (JSON Web Token) authentication to ensure secure acce
 ## 🚀 Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/USERNAME/movie-rating-platform.git
+   git clone https://github.com/p01sa/movie-rating-platform.git
 2. 	Navigate to the project folder:
    cd movie-rating-platform
 3. 	Install dependencies:
